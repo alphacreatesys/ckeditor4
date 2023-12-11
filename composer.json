@@ -1,14 +1,14 @@
 {
-    "name": "laravel-admin-ext/ckeditor",
+    "name": "alphacreatesys/ckeditor4",
     "description": "Integrate CKEDITOR into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor", "CKEditor"],
-    "homepage": "https://github.com/laravel-admin-ext/ckeditor",
+    "homepage": "https://github.com/alphacreatesys/ckeditor4",
     "license": "MIT",
     "authors": [
         {
-            "name": "song",
-            "email": "zosong@126.com"
+            "name": "alphacreatesys",
+            "email": "okamoto@alpha-create.ne.jp"
         }
     ],
     "require": {
