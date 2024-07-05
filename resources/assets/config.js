@@ -35,4 +35,7 @@ CKEDITOR.editorConfig = function( config ) {
 
 	// Add plugins.
 	config.extraPlugins = 'colorbutton,panelbutton,button,floatpanel,panel,font,richcombo,justify';
+
+	// Disable security notifications.
+	config.versionCheck = false;
 };
